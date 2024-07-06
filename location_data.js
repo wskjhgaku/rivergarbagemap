@@ -830,9 +830,3 @@ const locations = {
         }
     }, 
 };
-
-let map;
-let currentYear = '2024';
-let isTimelineMode = false;
-
-
