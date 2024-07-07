@@ -85,11 +85,11 @@ const locations = {
                 color: "#ff8c00",
                 images: [
                     "images＿data/點146-147.jpeg",
-                    "images＿data/點146-147.(1)jpeg",
-                    "images＿data/點146-147.(2)jpeg",
-                    "images＿data/點146-147.(3)jpeg",
-                    "images＿data/點146-147.(4)jpeg",
-                    "images＿data/點146-147.(5)jpeg"
+                    "images＿data/點146-147(1).jpeg",
+                    "images＿data/點146-147(2).jpeg",
+                    "images＿data/點146-147(3).jpeg",
+                    "images＿data/點146-147(4).jpeg",
+                    "images＿data/點146-147(5).jpeg"
                 ]
             },
         }
