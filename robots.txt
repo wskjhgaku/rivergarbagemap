@@ -1,0 +1,3 @@
+User-agent: *
+   Allow: /
+   Sitemap: https://wskjhgaku.github.io/rivergarbagemap/sitemap.xml
